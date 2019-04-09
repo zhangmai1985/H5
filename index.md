@@ -1,22 +1,22 @@
 ## 一切从这一刻开始
 
-You can use the [editor on GitHub](https://github.com/zhangmai1985/H5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+新时代职业学校，在短短两年时间里培养数万
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是我们的使命
 
-### Markdown
+### 组织框架
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+从今天起，只要你努力
 
-```markdown
-Syntax highlighted code block
+没有不可能
+相信我们相信自己
 
 ## 案例 1
 ## 案例 2
 ## 案例 3
 
-- Bulleted
-- List
+- 生命
+- 时间
 
 1. Numbered
 2. List
